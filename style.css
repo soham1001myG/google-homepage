@@ -58,9 +58,24 @@ a{
 #searchicon{
 	margin-left: 12px;
 	margin-top: 12px;
+	display: inline-block;
 }
 #searchicon img{
 	height:20px;
+}
+#searchbox{
+	
+	line-height: 25px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border: none;
+	color: #333;
+	width: 450px;
+	font-size: 15px;
+	vertical-align: middle;
+}
+input:focus{
+	outline: none;
 }
 .buttons{
 	display:flex;
