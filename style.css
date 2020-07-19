@@ -119,6 +119,9 @@ footer{
 	margin-right: 27px;
 	float:right;
 }
+.fbarleft a,.fbarright a{
+	color: #5f6368;
+}
 
 
  
